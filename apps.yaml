@@ -83,3 +83,20 @@ qm9-schnet-uncertainty:
     state: development
   categories:
      - technology-ase
+ helao:
+  categories:
+  - wp10
+  - technology-orchestration
+  - utilities
+  git_url: https://github.com/helgestein/helao-pub.git
+  metadata:
+    authors: Fuzhan Rahmanian, Jackson Flowers, Dan Guevarra, Matthias Richter, Maximilian Fichtner, Phillip Donnely, John M. Gregoire, Helge S. Stein
+    description: |
+      Orchestrate multiple instruments at the same time with one or many optimizers
+    logo: https://github.com/helgestein/helao-pub/blob/master/helaologo.svg
+    state: release v1
+    title: HELAO framework
+    external_url: https://onlinelibrary.wiley.com/doi/full/10.1002/admi.202101987
+    version: 1.0
+    documentation_url: https://github.com/helgestein/helao-pub/blob/master/helao%20guide.pdf
+
