@@ -20,6 +20,9 @@ technology-materials-cloud:
 technology-simstack:
   description: The app utilizes SimStack (https://www.simstack.de).
   title: SimStack
+technology-orchestration:
+  description: Tools to talk to machines, software and humans.
+  title: Orchestration tools for connecting experiments and simulations.
 utilities:
   description: Utility apps for everyday tasks.
   title: Utilities
